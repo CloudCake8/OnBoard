@@ -5,3 +5,5 @@
 This is a custom 65% keyboard that I designed using my OnBoard grant.
 
 It utilizes a stacked polycarbonate case design, with clever pockets and routes for it to be all done in a single operation with a CNC router (many FRC teams have these!)
+
+This was my first time using any sort of EDA software (EasyEDA is great - it really is easy with EasyEDA), and my first PCB design.
